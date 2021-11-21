@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="ua">
+
+<head>
+   <title>Персональна сторінка Маковського</title>
+   <link rel="stylesheet" href="css/style.css">
+   <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+</head>
+
+<body>
+   <center>
+      <img src="img/sasha.jpg" alt="My photo">
+   </center>
+   <style>
+
+   </style>
+   <br>
+   <br>
+   <hr>
+   <br>
+   <br>
+   <center>
+      <h1>Про мене</h1>
+   </center>
+   <p class="aboutme" style="color: brown;">
+      Мене звати Маковський Олександр <br>
+      Мені 19 років <br>
+      Живу у місті Київ <br>
+      Навчаюся у <strong>Національному авіаційному університеті</strong> на спеціальності <em>125 Кібербезпека</em>
+   </p>
+   <br>
+   <br>
+   <hr>
+   <br>
+   <br>
+   <center>
+      <h1>Освіта</h1>
+   </center>
+   <style>
+      h1 {
+         background-color: #87CEFA;
+      }
+   </style>
+   <ul type="circle" style="color: red;">
+      <li>Повна середня освіта</li>
+      <li>2 курс університету</li>
+   </ul>
+   <br>
+   <br>
+   <hr>
+   <br>
+   <br>
+   <center>
+      <h1><a href="second.html">Додаткова інформація про мене</a></h1>
+   </center>
+   <br>
+   <br>
+   <hr>
+   <br>
+   <br>
+   <center>
+      <h1>Мої контакти</h1>
+   </center>
+   <p>
+      Мій номер телефону: <strong>+380672200298</strong> <br>
+      Моя пошта: <strong>sasha.makovskyi18@gmail.com</strong><br>
+      Мій Інстаграм: <strong><a target="_blank" href="https://www.instagram.com/sashamakovskyi/">♥</a></strong>
+   </p>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Додаткова інформація</title>
+</head>
+
+
+<body
+   style="background-image: url(data:image/jpeg;base64,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);">
+   <h3>Мої улюблені книжки</h3>
+   <ol>
+      <li>Код да Вінчі</li>
+      <li>Син галактики</li>
+      <li>Шостий сон</li>
+      <li>Імперія ангелів</li>/**{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before, *:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus, :active{outline: none;}
+a:focus.a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+	height: 100%;
+	widows: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+
+input,button,textarea{font-family: inherit;}
+
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding: 0;border: 0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}*/
+/*--------------------------------*/
+/*--------------------------------*/
+/*--------------------------------*/
+/*--------------------------------*/
+/*--------------------------------*/
+
+hr {
+	border-style: none;
+	border-top-style: dashed;
+	border-color: red;
+	border-width: 5px;
+	width: 700px;
+}
+img {
+	width: 200px;
+	height: 222px;
+}
+
+body {
+	background-color: #F5FE99;
+}
+p {
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+	color: white;
+}
+
+a {
+	font-style: italic;
+	text-decoration: green wavy underline;
+}
+.aboutme {
+	line-height: 60px;
+}
+
+
+      <li>Володар перснів</li>
+   </ol>
+   <br>
+   <br>
+   <hr>
+   <br>
+   <br>
+   <h3>Мої захоплення</h3>
+   <ul type="square">
+      <li>Футбол</li>
+      <li>Змішані єдиноборства</li>
+      <li>Музика</li>
+      <li>Гумор</li>
+      <li>Web-розробка</li>
+   </ul>
+   <br>
+   <br>
+   <a href="index.html">Назад</a>
+</body>
+
+</html>
